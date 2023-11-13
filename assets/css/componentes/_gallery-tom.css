@@ -1,0 +1,5 @@
+.gallery ul{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: -110px;
+  }
