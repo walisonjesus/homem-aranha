@@ -2,6 +2,8 @@
 
 Bem-vindo ao projeto Multiverso Homem-Aranha Landing Page! Este é um projeto simples de uma página de destino inspirada no universo do Homem-Aranha.
 
+ ![Preview da Página](assets\images\foto-readme.png)
+
 ## Visão Geral
 
 O Multiverso Homem-Aranha Landing Page é uma página web criada para destacar as características e informações relacionadas ao multiverso do Homem-Aranha. Ele fornece uma experiência envolvente para os fãs e interessados, apresentando elementos visuais e informações relevantes.
