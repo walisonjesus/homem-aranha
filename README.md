@@ -2,7 +2,7 @@
 
 Bem-vindo ao projeto Multiverso Homem-Aranha Landing Page! Este é um projeto simples de uma página de destino inspirada no universo do Homem-Aranha.
 
- ![Preview da Página](assets\images\foto-readme.png)
+ ![Preview da Página](https://github.com/walisonjesus/homem-aranha/blob/main/assets/images/foto-readme.png?raw=true)
 
 ## Visão Geral
 
